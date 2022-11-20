@@ -1,0 +1,5 @@
+Two files of python code, one for Variational inference named as "JVDC_p.py" and the otherone for Stochastic Variational inference and named as "JSDC_p.py" have been included. 
+Two datasets named as "caltechData.npz" for Caltech Dataset and "ExtendedYaleB.mat" have also been included for training our models.
+Note that VI ans SVI's implementation codes have been included to present a comperitive grounds to justify the effeciency of SVI algorithm.
+Detail instructions about the codes have been included in the respective files in the ending segments of the code files.
+Place all the files in the same directory and run the respective codes after installing necessary python packages, as listed at the start of each file.
